@@ -17,8 +17,7 @@ Implemented as part of my preparation for technical interviews and improvement o
 ---
 
 ### 🛠 Technologies
-- Python  
-- Git & GitHub  
+- C++   
 
 ---
 
@@ -30,7 +29,6 @@ Implemented as part of my preparation for technical interviews and improvement o
 ---
 
 ### 📂 Repository Structure
-- Each **folder** represents a category of problems.  
 - Each **file** contains a solution to a specific problem.  
 
 ---

@@ -29,7 +29,7 @@ Implemented as part of my preparation for technical interviews and improvement o
 ---
 
 ### 📂 Repository Structure
-- Each **file** contains a solution to a specific problem.  
+- Each **file** contains solutions to tasks of specific topic each week.  
 
 ---
 

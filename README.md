@@ -1,5 +1,5 @@
 
-[!](https://github.com/Dreamerol/Dreamerol/blob/6ed4afdff5c8df516f7f7b6b618a8c40dd4fefa2/DATA.jpg)
+[](https://github.com/Dreamerol/Dreamerol/blob/6ed4afdff5c8df516f7f7b6b618a8c40dd4fefa2/DATA.jpg)
 
 
 ## 🧩 Data Structures & Algorithms

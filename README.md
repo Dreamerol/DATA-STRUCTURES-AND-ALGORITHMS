@@ -9,7 +9,7 @@
 
 ---
 
-### 📌 Topics Covered
+## 📌 Topics Covered
 - Arrays  
 - Linked Lists  
 - Stacks & Queues  
@@ -20,24 +20,24 @@
 
 ---
 
-### 🛠 Technologies
+## 🛠 Technologies
 - C++   
 
 ---
 
-### 🎯 Goals
+## 🎯 Goals
 - Improve algorithmic thinking  
 - Write clean and efficient code  
 - Prepare for Software Engineering interviews  
 
 ---
 
-### 📂 Repository Structure
+## 📂 Repository Structure
 - Each **file** contains solutions to tasks of specific topic each week.  
 
 ---
 
-### 🚀 Example Problems
+## 🚀 Example Problems
 - Two Sum  
 - Binary Search  
 - Reverse Linked List  
@@ -45,7 +45,7 @@
 
 ---
 
-### 📈 Progress
+## 📈 Progress
 - Actively adding new problems and improving existing solutions  
 
 ---

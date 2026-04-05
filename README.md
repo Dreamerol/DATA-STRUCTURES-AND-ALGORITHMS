@@ -5,7 +5,7 @@
 # 🧩 Data Structures & Algorithms
 
 ## *This repository contains my solutions to common **Data Structures and Algorithms (DSA)** problems.Implemented as part of my preparation for technical interviews and improvement of problem-solving skills.  
-## Implemented as part of my preparation for technical interviews and improvement of problem-solving skills.
+
 
 ---
 

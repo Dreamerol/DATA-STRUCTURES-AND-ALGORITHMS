@@ -141,7 +141,6 @@ Implemented as part of my preparation for **technical interviews** and improveme
 - GitHub: [github.com/Dreamerol](https://github.com/Dreamerol)  
 - LinkedIn: [Mihaela Koseva](https://www.linkedin.com/in/mihaela-koseva-b5b39337a)
 
----
 
 ---
 

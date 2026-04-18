@@ -63,8 +63,7 @@ Implemented as part of my preparation for **technical interviews** and improveme
 
 ---
 
-## **🛠 Technologies**
-- **C++**  
+## **🛠 Technologies**      - **C++**  
 
 ---
 

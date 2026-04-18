@@ -63,10 +63,6 @@ Implemented as part of my preparation for **technical interviews** and improveme
 
 ---
 
-## **🛠 Technology**      - **C++**  
-
----
-
 ## **🎯 Goals**
 - Improve **algorithmic thinking**  
 - Write **clean and efficient code**  
@@ -99,6 +95,10 @@ Implemented as part of my preparation for **technical interviews** and improveme
 
 ## **📂 Repository Structure**
 - Each **file** contains solutions to tasks for a specific topic each week.  
+
+---
+
+## **🛠 Technology**      - **C++**  
 
 ---
 

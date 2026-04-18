@@ -98,10 +98,6 @@ Implemented as part of my preparation for **technical interviews** and improveme
 
 ---
 
-## **🛠 Technology**      - **C++**  
-
----
-
 ## **🚀 Example Problems**
 - **Two Sum**  
 - **Binary Search**  
@@ -113,6 +109,11 @@ Implemented as part of my preparation for **technical interviews** and improveme
 
 ## **📈 Progress**
 - Actively adding new problems and improving existing solutions
+
+---
+
+## **🛠 Technology**      - **C++**  
+
 
 
 <p align="center">

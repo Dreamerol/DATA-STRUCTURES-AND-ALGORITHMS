@@ -112,7 +112,13 @@ Implemented as part of my preparation for **technical interviews** and improveme
 ---
 
 ## **📈 Progress**
-- Actively adding new problems and improving existing solutions  
+- Actively adding new problems and improving existing solutions
+
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
 
 ---
 
@@ -132,14 +138,7 @@ Implemented as part of my preparation for **technical interviews** and improveme
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
----
 
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
-
----
 
 
 

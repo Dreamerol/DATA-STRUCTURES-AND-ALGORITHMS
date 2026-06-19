@@ -3,6 +3,10 @@
 
 <h1 align="center"><b>🧩 𝗗𝗔𝗧𝗔 𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘𝗦 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b></h1>
 
+
+<br>
+
+
 ![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/DATA.jpg)
 
 
